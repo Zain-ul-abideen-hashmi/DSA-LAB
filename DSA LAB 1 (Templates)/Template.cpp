@@ -24,7 +24,6 @@ void House::getHouseinfo()
     cout << "owner name: ";
 
     getline(cin,owner);
-    cin.ignore();
     cout << "adress of location: ";
     getline(cin, address);
 

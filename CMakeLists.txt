@@ -4,4 +4,5 @@ project(DSA_LAB)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(DSA_LAB
-        "DSA LAB 1 (Templates)/Template.cpp")
+        "DSA LAB 1 (Templates)/Template.cpp"
+)
