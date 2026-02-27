@@ -11,7 +11,7 @@ int checkingPrime(int n, int i)
             return 1; // 2 is prime always
         }
 
-        Else
+        else
 
                 {
                     return 0; // 0 and 1 are not prime nor are we considering negative
